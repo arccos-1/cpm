@@ -1,4 +1,5 @@
 a simple CLI password manager written in Dart
+
 uses AES-256-GCM for encryption and Argon2 for key derivation 
 
 how to use:
